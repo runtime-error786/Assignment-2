@@ -1,6 +1,6 @@
 form label{
     color: black;
-    font-size: larger;
+    font-size: 50px;
     margin-left: 600px;
     position: relative;
     top: 100px;
@@ -14,7 +14,8 @@ form input{
     top: 100px;
     border-radius:20px ;
     margin-top: 20px;
-    
+    height: 50px;
+    margin-left: 700px;
 }
 
 form h2{
@@ -36,6 +37,11 @@ form h2{
     color: black;
     width: 100px;
     background-color: white;
+    height: 50px;
+    width: 200px;
+    background-color:bisque;
+    color: black;
+    font-size: larger;
 }
 
 #a2{
@@ -47,6 +53,11 @@ form h2{
     color: black;
     width: 100px;
     background-color: white;
+    height: 50px;
+    width: 200px;
+    background-color:bisque;
+    color: black;
+    font-size: larger;
 }
 
 a{
@@ -85,7 +96,7 @@ p{
 
 #a3{
     position: relative;
-    left: 750px;
+    left: 740px;
     top: 180px;
     margin-left: 0px;
     border-radius: 10px;
@@ -93,15 +104,20 @@ p{
     width: 100px;
     background-color: white;
    margin-bottom: 300px;
+   height: 50px;
+    width: 200px;
+    background-color:bisque;
+    color: black;
+    font-size: larger;
 }
 
 #e1{
     background-color: #95a5a6;
-    height: 600px;
+    height: 900px;
 }
 
 
 #e2{
     background-color: #95a5a6;
-    height: 1000px;
+    height: 1700px;
 }
