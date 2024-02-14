@@ -1,23 +1,181 @@
-form label{
-    color: black;
-    font-size: 50px;
-    margin-left: 600px;
-    position: relative;
-    top: 100px;
-}
 
-form input{
+
+#h1{
+    margin-left: 280px;
+    padding-top: 100px;
+}
+#h2{
+    margin-left: 280px;
+    padding-top: 50px;
+}
+#username{
     color: black;
     font-size: larger;
     position: relative;
-    margin-left: 40px;
+    border-radius:10px ;
+    margin-top: 100px;
+    height: 40px;
+    left: 200px;
+}
+#pass{
+    color: black;
+    font-size: larger;
+    position: relative;
+    border-radius:10px ;
+    margin-top: 50px;
+    height: 40px;
+    left: 200px;
+}
+#j11{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 40px;
+}
+#j3{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 0px;
+}
+#j4{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 0px;
+}
+#j5{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 0px;
+}
+#j6{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 0px;
+}
+#j7{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 0px;
+}
+#j8{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 0px;
+}
+#j9{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 0px;
+}
+#username1{
+    color: black;
+    font-size: larger;
+    position: relative;
+    border-radius:10px ;
+    margin-top: 60px;
+    height: 40px;
+    left: 200px;
+}
+#pass1{
+    color: black;
+    font-size: larger;
+    position: relative;
+    border-radius:10px ;
+    margin-top: 10px;
+    height: 40px;
+    left: 200px;
+}
+#email{
+    color: black;
+    font-size: larger;
+    position: relative;
+    border-radius:10px ;
+    margin-top: 10px;
+    height: 40px;
+    left: 200px;
+}
+#Cpass{
+    color: black;
+    font-size: larger;
+    position: relative;
+    border-radius:10px ;
+    margin-top: 10px;
+    height: 40px;
+    left: 200px;
+}
+#age{
+    color: black;
+    font-size: larger;
+    position: relative;
+    border-radius:10px ;
+    margin-top: 10px;
+    height: 40px;
+    left: 200px;
+}
+#city{
+    color: black;
+    font-size: larger;
+    position: relative;
+    border-radius:10px ;
+    margin-top: 10px;
+    height: 40px;
+    left: 200px;
+}
+#country{
+    color: black;
+    font-size: larger;
+    position: relative;
+    border-radius:10px ;
+    margin-top: 10px;
+    height: 40px;
+    left: 200px;
+}
+#religion{
+    color: black;
+    font-size: larger;
+    position: relative;
+    border-radius:10px ;
+    margin-top: 10px;
+    height: 40px;
+    left: 200px;
+}
+#j21{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 0px;
+}
+#j1{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
     top: 100px;
-    border-radius:20px ;
-    margin-top: 20px;
-    height: 50px;
-    margin-left: 700px;
 }
 
+#j2{
+    position: relative;
+    font-size: larger;
+    color: black;
+    left: 200px;
+    top: 40px;
+}
 form h2{
     margin-top: 200px;
     margin-left:780px ;
@@ -30,8 +188,8 @@ form h2{
 
 #a1{
     position: relative;
-    left: 750px;
-    top: 180px;
+    left: 210px;
+    top: 60px;
     margin-left: 0px;
     border-radius: 10px;
     color: black;
@@ -46,8 +204,8 @@ form h2{
 
 #a2{
     position: relative;
-    left: 750px;
-    top: 20px;
+    left: 210px;
+    top: -100px;
     margin-left: 0px;
     border-radius: 10px;
     color: black;
@@ -67,16 +225,16 @@ a{
 
 #n1{
  position: relative;
- left: 740px;
- top: 100px;
+ left: 250px;
+ top: 0px;
  color: yellow;
  display: inline-block;
 }
 
 #n2{
     position: relative;
-    left: 740px;
-    top: 100px;
+    left: 250px;
+    top: 0px;
     color: yellow;
     display: inline-block;
 
@@ -86,18 +244,18 @@ form{
     
 }
 
-p{
-    position: relative;
- left: 740px;
- top: 100px;
+#e2 p{
+ position: relative;
+ left: 220px;
+ top: 0px;
  color: yellow;
  display: inline-block;
 }
 
 #a3{
     position: relative;
-    left: 740px;
-    top: 180px;
+    left: 220px;
+    top: 30px;
     margin-left: 0px;
     border-radius: 10px;
     color: black;
@@ -114,10 +272,16 @@ p{
 #e1{
     background-color: #95a5a6;
     height: 900px;
+    width: 700px;
+    position: relative;
+    left: 600px;
 }
 
 
 #e2{
     background-color: #95a5a6;
-    height: 1700px;
+    height: 1300px;
+    width: 700px;
+    position: relative;
+    left: 600px;
 }

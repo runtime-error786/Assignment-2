@@ -44,8 +44,8 @@ let EmailCheck = (email) => {
 }
 
 let gq = ()=>{
-    let r1 = document.getElementById("username").value;
-    let r2 = document.getElementById("pass").value;
+    let r1 = document.getElementById("username1").value;
+    let r2 = document.getElementById("pass1").value;
     let r3 = document.getElementById("Cpass").value;
     let r4 = document.getElementById("email").value;
     let r5 = document.getElementById("age").value;
@@ -117,7 +117,7 @@ let gq = ()=>{
       
     }
     else{
-        document.getElementById("n8").innerHTML="age is not negative";
+        document.getElementById("n8").innerHTML="age must positive number";
 
     }
     if(r6=="")
